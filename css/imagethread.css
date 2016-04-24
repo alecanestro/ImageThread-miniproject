@@ -1,0 +1,23 @@
+
+#image-post-box-loading{
+    text-align: center;
+    display: none;
+}
+#image-post-box-content{
+    border: solid 1px #ccc;
+    text-align: center;
+}
+#posts-box{
+    margin: 10px 0px;
+}
+.post-list{
+    margin: 10px 0px;
+}
+.post-list-item{
+    border: solid 1px #ccc;
+    margin: 10px 0px;
+}
+#image-recent-post img,#posts-box img{
+    max-width: 1920px;
+    width: 100%;
+}
